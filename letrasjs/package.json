@@ -1,0 +1,14 @@
+{
+  "name": "letrasjs",
+  "version": "1.0.0",
+  "description": "Pruebas de wendy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wendy Suarez Pena",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  }
+}
